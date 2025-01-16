@@ -22,4 +22,4 @@ Original Price: 100
 Discount Percentage: 20
 Output
 Discount Value: 20.00
-Final Price: $80.00
+Final Price: 80.00
