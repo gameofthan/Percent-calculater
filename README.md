@@ -1,4 +1,4 @@
-# Percent-calculater By.Raj Ranjan
+# Percent-calculater By.Raj
 
 This project is a simple Discount Calculator implemented using HTML, CSS, and JavaScript. It allows users to calculate the discount value and final price of a product based on the original price and discount percentage provided.
 
